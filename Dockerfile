@@ -1,3 +1,4 @@
+# Adaption of Dockerfile for Hotfix JIRA-ID 173029
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 ARG DEVICE
